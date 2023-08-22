@@ -3,8 +3,7 @@
 ##Matricula: 231072068##
 ###1. Por que é útil para um programador ter alguma experiência no projeto de lin-
 guagens, mesmo que ele nunca projete uma linguagem de programação?###
--Ao estudar sobre como é criada uma linguagem de programação faz com que o programador tenha uma base mais sólida onde ele se desenvolverá bem com qualquer linguagem por entender de fato suas utilidades seu desenvolvimento em qualquer linguagem será beneficiado com esse conhecimento.
-
+Ao estudar sobre como é criada uma linguagem de programação faz com que o programador tenha uma base mais sólida onde ele se desenvolverá bem com qualquer linguagem por entender de fato suas utilidades seu desenvolvimento em qualquer linguagem será beneficiado com esse conhecimento.
 ###2. Como o conhecimento de linguagens de programação pode beneficiar toda a
 comunidade da computação?###
 -Criação de comunidades onde o código é aberto para que outros programadores opinem e criem uma boa comunidade mantendo uma linguagem boa perpetuando por mais tempo com uma comunidade ativa o que seria um atrativo para novos programadores enriquecendo 
